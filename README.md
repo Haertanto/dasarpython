@@ -28,12 +28,45 @@ Web browser yang digunakan bervariasi, bisa Google Chrome, Mozilla Firefox, Micr
 
 Fungsi Utamanya mengakses Google Colaboratory sebagai online IDE untuk membuat kode program secara mandiri.
 
-### [1. Berkenalan dengan Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/1/1.%20Berkenalan%20dengan%20Python.md)
+### 1. Berkenalan dengan Python
 Yuk kenalan sama bahasa pemrograman Python!, mulai dari versi awal sampai yang paling baru. Kita juga bakal bahas bareng kenapa sih Python itu pilihan bahasa pemrograman yang tepat. Belajar cara bikin program dengan kode sederhana Python dan menjalankannya di komputer lokal.
-### [2. Berinteraksi dengan Data](https://github.com/Haertanto/dasarpython/blob/main/Materi/2.%20Berinteraksi%20dengan%20Data.md)
+
+[1.1. Pengenalan Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/1/1.%20Berkenalan%20dengan%20Python.md)
+
+[1.2. Membuat Kode Program Pertama ](https://github.com/Haertanto/dasarpython/blob/main/Materi/1/2.%20Kode%20Program%20Pertama.md)
+
+1.3. Bersiap Membuat Kode Program di Lokal 
+
+1.4. Menjalankan Kode Program di Lokal 
+
+1.5. Variable dan Assignment 
+
+1.6. Input/Output dan Komentar 
+
+1.7. Kuis Coding: Variabel dan Assignment 
+Rangkuman Berkenalan dengan Python 
+### 2. Berinteraksi dengan Data
 Memahami dasar-dasar tipe data di Python, termasuk tipe data primitif dan koleksi. Sekalian berbagai operasi dan cara mengubah tipe data di Python.
-### [3. Ekspresi](https://github.com/Haertanto/dasarpython/blob/main/Materi/3.%20Ekspresi.md)
+2.1. Abstraksi Data
+
+2.2. Data Typing
+
+2.3. Tipe Data
+
+2.4. Kuis Coding: Tipe Data
+
+2.5. Kuis Coding: Dictionary
+
+2.6. Transformasi Angka, Karakter, dan String
+
+2.7. Operasi pada List, Set, dan String
+
+2.8. Kuis Coding: Operasi List
+
+2.8. Rangkuman Berinteraksi dengan Data
+### 3. Ekspresi
 Konsep ekspresi dan kenal lebih dalam macam jenis ekspresi serta operator di Python.
+
 ### [4. Aksi Sekuensial](https://github.com/Haertanto/dasarpython/blob/main/Materi/4.%20Aksi%20Sekuensial.md)
 Konsep aksi sekuensial dan gimana cara terapin di Python. Belajar cara buat kode program Python yang bener, termasuk tentang indentasi, case-sensitive, dan block code. Di bagian akhir, belajar konsep one-liner di Python.
 ### [5. Control Flow](https://github.com/Haertanto/dasarpython/blob/main/Materi/5.%20Control%20Flow.md)
