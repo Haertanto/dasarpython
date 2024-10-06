@@ -28,29 +28,29 @@ Web browser yang digunakan bervariasi, bisa Google Chrome, Mozilla Firefox, Micr
 
 Fungsi Utamanya mengakses Google Colaboratory sebagai online IDE untuk membuat kode program secara mandiri.
 ## [Daftar Istilah](https://github.com/Haertanto/dasarpython/blob/main/Daftar%20Istilah.md)
-### 1. Berkenalan dengan Python
+### [1. Berkenalan dengan Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/1.%20Berkenalan%20dengan%20Python.md)
 Yuk kenalan sama bahasa pemrograman Python!, mulai dari versi awal sampai yang paling baru. Kita juga bakal bahas bareng kenapa sih Python itu pilihan bahasa pemrograman yang tepat. Belajar cara bikin program dengan kode sederhana Python dan menjalankannya di komputer lokal.
-### 2. Berinteraksi dengan Data
+### [2. Berinteraksi dengan Data](https://github.com/Haertanto/dasarpython/blob/main/Materi/2.%20Berinteraksi%20dengan%20Data.md)
 Memahami dasar-dasar tipe data di Python, termasuk tipe data primitif dan koleksi. Sekalian berbagai operasi dan cara mengubah tipe data di Python.
-### 3. Ekspresi
+### [3. Ekspresi](https://github.com/Haertanto/dasarpython/blob/main/Materi/3.%20Ekspresi.md)
 Konsep ekspresi dan kenal lebih dalam macam jenis ekspresi serta operator di Python.
-### 4. Aksi Sekuensial
+### [4. Aksi Sekuensial](https://github.com/Haertanto/dasarpython/blob/main/Materi/4.%20Aksi%20Sekuensial.md)
 Konsep aksi sekuensial dan gimana cara terapin di Python. Belajar cara buat kode program Python yang bener, termasuk tentang indentasi, case-sensitive, dan block code. Di bagian akhir, belajar konsep one-liner di Python.
-### 5. Control Flow
+### [5. Control Flow](https://github.com/Haertanto/dasarpython/blob/main/Materi/5.%20Control%20Flow.md)
 Pelajari percabangan dan perulangan pada Python serta penanganan kesalahan (Error dan Exception Handling).
-### 6. Array dan Pemrosesannya
+### [6. Array dan Pemrosesannya](https://github.com/Haertanto/dasarpython/blob/main/Materi/6.%20Array%20dan%20Pemrosesannya.md)
 Konsep array pada pemrograman serta penerapannya pake bahasa pemrograman Python.
-### 7. Matriks
+### [7. Matriks](https://github.com/Haertanto/dasarpython/blob/main/Materi/7.%20Matriks.md)
 Konsep matriks dalam matematika serta cara implementasi pada Python dengan berbagai operasi matriks.
-### 8. Subprogram
+### [8. Subprogram](https://github.com/Haertanto/dasarpython/blob/main/Materi/8.%20Subprogram.md)
 Implementasikan subprogram Python, meliputi fungsi dan prosedur.
-### 9. Object-Oriented Programming
+### [9. Object-Oriented Programming](https://github.com/Haertanto/dasarpython/blob/main/Materi/9.%20Object-Oriented%20Programming.md)
 Implementasikan paradigma pemrograman berorientasi objek (object-oriented programming).
-### 10. Style Guide pada Python
+### [10. Style Guide pada Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/10.%20Style%20Guide%20pada%20Python.md)
 Pembahasan Style Guide Python yang merupakan arahan gaya penulisan kode pemrograman untuk memformat kode dan memudahkan pengecekan akan kemungkinan terjadinya kesalahan (error) pada kode yang ditulis
-### 11. Unit Testing
+### [11. Unit Testing](https://github.com/Haertanto/dasarpython/blob/main/Materi/11.%20Unit%20Testing.md)
 Implementasikan pengujian kode secara otomatis pada bahasa pemrograman Python.
-### 12. Library Populer pada Python
+### [12. Library Populer pada Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/12.%20Library%20Populer%20pada%20Python.md)
 Pengenalan berbagai Library Populer pada bahasa pemrograman Python yang sudah banyak dipake oleh para programmer Python.
 
 ## Referensi
