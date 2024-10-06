@@ -27,8 +27,8 @@ Bebas pake OS apa aja, Windows, Linux, maupun MacOS. Yang penting terhubung deng
 Web browser yang digunakan bervariasi, bisa Google Chrome, Mozilla Firefox, Microsoft Edge, atau yang lainnya. 
 
 Fungsi Utamanya mengakses Google Colaboratory sebagai online IDE untuk membuat kode program secara mandiri.
-## [Daftar Istilah](https://github.com/Haertanto/dasarpython/blob/main/Daftar%20Istilah.md)
-### [1. Berkenalan dengan Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/1.%20Berkenalan%20dengan%20Python.md)
+
+### [1. Berkenalan dengan Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/1/1.%20Berkenalan%20dengan%20Python.md)
 Yuk kenalan sama bahasa pemrograman Python!, mulai dari versi awal sampai yang paling baru. Kita juga bakal bahas bareng kenapa sih Python itu pilihan bahasa pemrograman yang tepat. Belajar cara bikin program dengan kode sederhana Python dan menjalankannya di komputer lokal.
 ### [2. Berinteraksi dengan Data](https://github.com/Haertanto/dasarpython/blob/main/Materi/2.%20Berinteraksi%20dengan%20Data.md)
 Memahami dasar-dasar tipe data di Python, termasuk tipe data primitif dan koleksi. Sekalian berbagai operasi dan cara mengubah tipe data di Python.
@@ -52,6 +52,8 @@ Pembahasan Style Guide Python yang merupakan arahan gaya penulisan kode pemrogra
 Implementasikan pengujian kode secara otomatis pada bahasa pemrograman Python.
 ### [12. Library Populer pada Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/12.%20Library%20Populer%20pada%20Python.md)
 Pengenalan berbagai Library Populer pada bahasa pemrograman Python yang sudah banyak dipake oleh para programmer Python.
+
+## [Daftar Istilah](https://github.com/Haertanto/dasarpython/blob/main/Daftar%20Istilah.md)
 
 ## Referensi
 1. [Python PEP 008 - Style Guide for Python Code.](https://www.python.org/dev/peps/pep-0008/)
