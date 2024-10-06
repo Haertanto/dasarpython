@@ -43,8 +43,7 @@ Yuk kenalan sama bahasa pemrograman Python!, mulai dari versi awal sampai yang p
 
 1.6. Input/Output dan Komentar 
 
-1.7. Kuis Coding: Variabel dan Assignment 
-Rangkuman Berkenalan dengan Python 
+1.7. Rangkuman Berkenalan dengan Python 
 ### 2. Berinteraksi dengan Data
 Memahami dasar-dasar tipe data di Python, termasuk tipe data primitif dan koleksi. Sekalian berbagai operasi dan cara mengubah tipe data di Python.
 2.1. Abstraksi Data
@@ -67,14 +66,59 @@ Memahami dasar-dasar tipe data di Python, termasuk tipe data primitif dan koleks
 ### 3. Ekspresi
 Konsep ekspresi dan kenal lebih dalam macam jenis ekspresi serta operator di Python.
 
-### [4. Aksi Sekuensial](https://github.com/Haertanto/dasarpython/blob/main/Materi/4.%20Aksi%20Sekuensial.md)
+3.1. Pengertian Ekspresi
+
+3.2. Jenis-Jenis Ekspresi
+
+3.3. Jenis-Jenis Operator
+
+3.4. Kuis Coding: Ekspresi
+
+3.5. Rangkuman Ekspresi
+### 4. Aksi Sekuensial
 Konsep aksi sekuensial dan gimana cara terapin di Python. Belajar cara buat kode program Python yang bener, termasuk tentang indentasi, case-sensitive, dan block code. Di bagian akhir, belajar konsep one-liner di Python.
-### [5. Control Flow](https://github.com/Haertanto/dasarpython/blob/main/Materi/5.%20Control%20Flow.md)
+
+4.1. Pengenalan Aksi Sekuensial
+
+4.2. Python Interpreter
+
+4.3. One-liner
+
+4.4. Rangkuman Aksi Sekuensial
+### 5. Control Flow
 Pelajari percabangan dan perulangan pada Python serta penanganan kesalahan (Error dan Exception Handling).
-### [6. Array dan Pemrosesannya](https://github.com/Haertanto/dasarpython/blob/main/Materi/6.%20Array%20dan%20Pemrosesannya.md)
+
+5.1. Percabangan dan Ternary Operators
+
+5.2. Perulangan
+
+5.3. Kuis Coding: Perulangan dan Percabangan
+
+5.4. Penanganan Kesalahan (Error Handling and Exception Handling)
+
+5.5. Rangkuman Control Flow
+### 6. Array dan Pemrosesannya
 Konsep array pada pemrograman serta penerapannya pake bahasa pemrograman Python.
-### [7. Matriks](https://github.com/Haertanto/dasarpython/blob/main/Materi/7.%20Matriks.md)
+
+6.1. Fundamental Array
+
+6.2. Implementasi Array dengan Python
+
+6.3. Pemrosesan Sekuensial pada Array
+
+6.4. Latihan Array
+
+6.5. Rangkuman Array dan Pemrosesannya
+### 7. Matriks
 Konsep matriks dalam matematika serta cara implementasi pada Python dengan berbagai operasi matriks.
+
+7.1. Fundamental Matriks
+
+7.2. Implementasi Matriks pada Python
+
+7.3. Operasi Matriks pada Python
+
+7.4. Rangkuman Matriks
 ### [8. Subprogram](https://github.com/Haertanto/dasarpython/blob/main/Materi/8.%20Subprogram.md)
 Implementasikan subprogram Python, meliputi fungsi dan prosedur.
 ### [9. Object-Oriented Programming](https://github.com/Haertanto/dasarpython/blob/main/Materi/9.%20Object-Oriented%20Programming.md)
