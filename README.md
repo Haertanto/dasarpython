@@ -119,17 +119,72 @@ Konsep matriks dalam matematika serta cara implementasi pada Python dengan berba
 7.3. Operasi Matriks pada Python
 
 7.4. Rangkuman Matriks
-### [8. Subprogram](https://github.com/Haertanto/dasarpython/blob/main/Materi/8.%20Subprogram.md)
+### 8. Subprogram
 Implementasikan subprogram Python, meliputi fungsi dan prosedur.
-### [9. Object-Oriented Programming](https://github.com/Haertanto/dasarpython/blob/main/Materi/9.%20Object-Oriented%20Programming.md)
-Implementasikan paradigma pemrograman berorientasi objek (object-oriented programming).
-### [10. Style Guide pada Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/10.%20Style%20Guide%20pada%20Python.md)
+
+8.1. Definisi Subprogram
+
+8.2. Fungsi
+
+8.3. Kuis Coding: Fungsi
+
+8.4. Prosedur
+
+8.5. Rangkuman Subprogram
+### 9. Object-Oriented Programming
+9.1. Implementasikan paradigma pemrograman berorientasi objek (object-oriented programming).
+
+9.2. Duck Typing
+
+9.3. Class, Object, dan Method
+
+9.4. Inheritance (Pewarisan)
+
+9.5. Kuis Coding: Object-oriented Programming
+
+9.6. Rangkuman Object-Oriented Programming (OOP)
+### 10. Style Guide pada Python
 Pembahasan Style Guide Python yang merupakan arahan gaya penulisan kode pemrograman untuk memformat kode dan memudahkan pengecekan akan kemungkinan terjadinya kesalahan (error) pada kode yang ditulis
-### [11. Unit Testing](https://github.com/Haertanto/dasarpython/blob/main/Materi/11.%20Unit%20Testing.md)
+
+10.1. Pengecekan Style Guide PEP8
+
+10.2. Memformat Kode
+
+10.3. Style Guide Statement Gabungan
+
+10.4. Style Guide Prinsip Penamaan pada Python
+
+10.5. Rangkuman Style Guide pada Python
+### 11. Unit Testing
 Implementasikan pengujian kode secara otomatis pada bahasa pemrograman Python.
-### [12. Library Populer pada Python](https://github.com/Haertanto/dasarpython/blob/main/Materi/12.%20Library%20Populer%20pada%20Python.md)
+
+11.1. Pengantar Unit Testing
+
+11.2. Penerapan Unit Test dengan Library unittest
+
+11.3. Rangkuman Unit Testing
+### 12. Library Populer pada Python
 Pengenalan berbagai Library Populer pada bahasa pemrograman Python yang sudah banyak dipake oleh para programmer Python.
 
+12.1. Pengenalan Library
+
+12.2. Library Text Processing
+
+12.3. Library Matematika
+
+12.4. Library Parser
+
+12.5. Library Pengolahan Data
+
+12.6. Library File Management
+
+12.7. Library Web Scraping
+
+12.8. Library Machine Learning
+
+12.9. Library Web Development
+
+12.10. Rangkuman Library Populer pada Python
 ## [Daftar Istilah](https://github.com/Haertanto/dasarpython/blob/main/Daftar%20Istilah.md)
 
 ## Referensi
