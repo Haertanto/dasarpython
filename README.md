@@ -8,11 +8,6 @@ Operasi Perhitungan Matematika Sederhana
 4. Operasi Fungsi
 5. Operasi Matriks
 
-Logika Dasar Pemrograman
-1. Logika Pemrograman
-2. Algoritma Pemrograman
-3. Gerbang Logika
-
 ## Tools
 Komputer/Laptop
 Bebas pake OS apa aja, Windows, Linux, maupun MacOS. Yang penting terhubung dengan internet. Spesifikasi minimal:
