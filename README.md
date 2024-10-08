@@ -127,17 +127,17 @@ Implementasikan subprogram Python, meliputi fungsi dan prosedur.
 
 8.5. Rangkuman Subprogram
 ### 9. Object-Oriented Programming
-9.1. Implementasikan paradigma pemrograman berorientasi objek (object-oriented programming).
+Implementasikan paradigma pemrograman berorientasi objek (object-oriented programming).
 
-9.2. Duck Typing
+9.1. Duck Typing
 
-9.3. Class, Object, dan Method
+9.2. Class, Object, dan Method
 
-9.4. Inheritance (Pewarisan)
+9.3. Inheritance (Pewarisan)
 
-9.5. Kuis Coding: Object-oriented Programming
+9.4. Kuis Coding: Object-oriented Programming
 
-9.6. Rangkuman Object-Oriented Programming (OOP)
+9.5. Rangkuman Object-Oriented Programming (OOP)
 ### 10. Style Guide pada Python
 Pembahasan Style Guide Python yang merupakan arahan gaya penulisan kode pemrograman untuk memformat kode dan memudahkan pengecekan akan kemungkinan terjadinya kesalahan (error) pada kode yang ditulis
 
