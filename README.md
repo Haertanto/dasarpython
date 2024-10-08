@@ -1,13 +1,11 @@
 # Basic Bahasa Pemrograman Python
 ## Pengetahuan Dasar  
-
 Operasi Perhitungan Matematika Sederhana
 1. Operasi Penjumlahan
 2. Operasi Pengurangan
 3. Operasi Perkalian
 4. Operasi Fungsi
 5. Operasi Matriks
-
 ## Tools
 Komputer/Laptop
 Bebas pake OS apa aja, Windows, Linux, maupun MacOS. Yang penting terhubung dengan internet. Spesifikasi minimal:
@@ -17,12 +15,11 @@ Bebas pake OS apa aja, Windows, Linux, maupun MacOS. Yang penting terhubung deng
 - RAM: 2 GB (Rekomendasi 4 GB)
 
 - Resolusi layar: 1366 x 768 (Rekomendasi Full HD 1920 x 1080)
-
 ## Web Browser
 Web browser yang digunakan bervariasi, bisa Google Chrome, Mozilla Firefox, Microsoft Edge, atau yang lainnya. 
 
 Fungsi Utamanya mengakses Google Colaboratory sebagai online IDE untuk membuat kode program secara mandiri.
-
+## [Daftar Istilah](https://github.com/Haertanto/dasarpython/blob/main/Daftar%20Istilah.md)
 ### 1. Berkenalan dengan Python
 Yuk kenalan sama bahasa pemrograman Python!, mulai dari versi awal sampai yang paling baru. Kita juga bakal bahas bareng kenapa sih Python itu pilihan bahasa pemrograman yang tepat. Belajar cara bikin program dengan kode sederhana Python dan menjalankannya di komputer lokal.
 
@@ -180,7 +177,6 @@ Pengenalan berbagai Library Populer pada bahasa pemrograman Python yang sudah ba
 12.9. Library Web Development
 
 12.10. Rangkuman Library Populer pada Python
-## [Daftar Istilah](https://github.com/Haertanto/dasarpython/blob/main/Daftar%20Istilah.md)
 
 ## Referensi
 1. [Python PEP 008 - Style Guide for Python Code.](https://www.python.org/dev/peps/pep-0008/)
